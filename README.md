@@ -29,7 +29,7 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
+<div align="center"> <h1 align="center"> 👨 SOCIAL 😎 </h1> </div>
 <b>Lets connect</b>
 <p align="center">
 
