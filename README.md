@@ -1,6 +1,7 @@
 
-<div align="center"> <h1 align="center"> Welcome to My GitHub! 👋 </h1> </div>
-<b> My name is Philip Oberhiri. I am a data professional.<b>
+<div align="center"> <h1 align="center"> Welcome to My GitHub! 👋🏾 </h1> </div>
+<b> Hello 👋🏾 My Name is Philip Oberhiri. I am an Aspiring Data Analyst.<b>
+<p> </p>
 
 <p></p>
 <div align="center"> <h1 align="center"> 💫	 DATA ANALYSIS TOOLS 💫 </h1> </div>
