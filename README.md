@@ -4,7 +4,7 @@
   <h1 align="center"> 👋🏾, I am Philip Oberhiri </h1>
 </div>
 
-## A Passionate Data Technician
+## A Passionate Data Analyst
 
 👋🏾 Welcome to my GitHub profile! 👋🏾
 
